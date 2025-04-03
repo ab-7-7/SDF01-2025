@@ -67,7 +67,7 @@ Here are some of my milestone projects (to be updated as I progress!):
 ## 📫 Connect with Me
 
 [![GitHub](https://github.com/ab-7-7)  
-[![LinkedIn](https://linkedin.com/in/www.linkedin.com/in/abdiasmasamba)  
+[![LinkedIn](https://www.linkedin.com/in/abdiasmasamba/)  
 📧 Email: abdiasmasamba@gmail.com
 
 ---
@@ -80,4 +80,4 @@ Here are some of my milestone projects (to be updated as I progress!):
 
 ## 🏆 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?ab-7-7=ab-7-7&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ab-7-7&show_icons=true&theme=radical)
