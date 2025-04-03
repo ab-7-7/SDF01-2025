@@ -1,6 +1,6 @@
 # [SDF01] Challenge: My First Repo 🚀
 
-# 👋 Hi, I'm Abdias Masamba
+# 👋 Hi, I'm Nzinga Abdias Masamba
 
 🌱 Beginner Software Developer | 🚀 Excited to Learn & Build
 
